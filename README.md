@@ -1,2 +1,2 @@
 # landingPageVPN
-LandingPage vpn with ReactJS technology 
+LandingPage vpnless with ReactJS technology 
